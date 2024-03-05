@@ -235,3 +235,4 @@ t.forward(100)
 t.down
 t.write('يک روز افتابي در جنگل',align='center', font=('Arial', 14, 'bold'))
 
+turtle.done()

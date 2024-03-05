@@ -153,7 +153,7 @@ medad.backward(20)
 medad.forward(40)
 
 
-
+turtle.done()
 
 
 

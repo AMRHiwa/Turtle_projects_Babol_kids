@@ -2,6 +2,7 @@ import turtle
 kaghaze = turtle.Screen()
 kaghaze.setup(500,500)
 kaghaze.title("ABBAS")
+kaghaze.bgcolor("lightblue")
 m = turtle.Turtle()
 m.pencolor("yellow")
 m.circle(80)
@@ -48,4 +49,4 @@ m.right(75)
 m.forward(120)
 m.right(72)
 m.forward(145)
-
+turtle.done()
