@@ -7,18 +7,18 @@ In this repository, I have put beautiful examples of my students' projects in th
 
 ### Menu
 
-+ <a href="#">project #1 : "The Nature" </a>
-+ <a href="#">project #2 : "Kung Fu Logo"</a>
-+ <a href="#">project #3 : "The Sunset Of The Farmer"</a>
-+ <a href="#">project #4 : "City"</a>
-+ <a href="#">project #5 : "City 2"</a>
-+ <a href="#">project #6 : "FC Logo"</a>
-+ <a href="#">project #7 : "Happy Birthday"</a>
-+ <a href="#">project #8 : "Internet dinosaur"</a>
-+ <a href="#">project #9 : "Tractor"</a>
-+ <a href="#">project #10 : "Car"</a>
-+ <a href="#">project #11 : "Car 2"</a>
-+ <a href="#">project #12 : "Animation Car" </a>
++ <a href="#p1">project #1 : "The Nature" </a>
++ <a href="#p2">project #2 : "Kung Fu Logo"</a>
++ <a href="#p3">project #3 : "The Sunset Of The Farmer"</a>
++ <a href="#p4">project #4 : "City"</a>
++ <a href="#p5">project #5 : "City 2"</a>
++ <a href="#p6">project #6 : "FC Logo"</a>
++ <a href="#p7">project #7 : "Happy Birthday"</a>
++ <a href="#p8">project #8 : "Internet dinosaur"</a>
++ <a href="#p9">project #9 : "Tractor"</a>
++ <a href="#p10">project #10 : "Car"</a>
++ <a href="#p11">project #11 : "Car 2"</a>
++ <a href="#p12">project #12 : "Animation Car" </a>
 
 ---
 
