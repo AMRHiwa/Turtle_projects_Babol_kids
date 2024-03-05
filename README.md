@@ -53,8 +53,44 @@ __Developer :__ Sam Afzali
 <img src='pictures/5.png' width=50% style="border:15px solid yellow">
 
 
-<h3 id='p1'>project #4 : "City 2" </h3>
+<h3 id='p1'>project #5 : "City 2" </h3>
 
 __Developer :__ Mohammad Sobhan Jaefarian
 
 <img src='pictures/12.png' width=50% style="border:15px solid yellow">
+
+
+
+<h3 id='p1'>project #6 : "FC Logo" </h3>
+
+__Developer :__ parsa GholamAli zadeh
+
+<img src='pictures/6.png' width=50% style="border:15px solid yellow">
+
+
+<h3 id='p1'>project #7 : "Happy Birthday" </h3>
+
+__Developer :__ morteza mir agharezakhani 
+
+<img src='pictures/7.png' width=50% style="border:15px solid yellow">
+
+
+<h3 id='p1'>project #7 : "Internet dinosaur" </h3>
+
+__Developer :__ ilia Alizadeh Tabaghi
+
+<img src='pictures/8.png' width=50% style="border:15px solid yellow">
+
+
+<h3 id='p1'>project #8 : "Tractor" </h3>
+
+__Developer :__ Amir Mohammad Aboulfazl zadeh
+
+<img src='pictures/9.png' width=50% style="border:15px solid yellow">
+
+
+<h3 id='p1'>project #9 : "Car" </h3>
+
+__Developer :__ Amir Mahdi Gholami 
+
+<img src='pictures/10.png' width=50% style="border:15px solid yellow">
